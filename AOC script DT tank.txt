@@ -1,0 +1,150 @@
+<Hotkey numpad2>
+<If HotkeysAreOn>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
+
+<WAIT 11000>
+<SendPC local>
+<SendWin aoc1>
+<Key numpad8>
+<Key numpad9>
+<Key v>
+<Key numpad4>
+<Key numpad5>
+<Key numpad6>
